@@ -1,0 +1,30 @@
+_repo: Pledged-to-the-Dead_32514
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32514-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quinn, Seabury
+    alias: Quinn, Seabury Grandin
+    birthdate: 1889
+    deathdate: 1969
+    gutenberg_agent_id: '35887'
+    url: http://www.gutenberg.org/2009/agents/35887
+description: ''
+gutenberg_issued: '2010-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcc 'PS'
+- !lcsh 'Ghost stories'
+- !lcsh 'New Orleans (La.) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: Pledged to the Dead
+url: http://www.gutenberg.org/ebooks/32514
