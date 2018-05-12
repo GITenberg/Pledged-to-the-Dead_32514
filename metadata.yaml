@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35887'
     url: http://www.gutenberg.org/2009/agents/35887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32514#Pledged-to-the-Dead
 gutenberg_issued: '2010-05-24'
 gutenberg_type: Text
 identifiers:
